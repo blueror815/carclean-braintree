@@ -1,28 +1,12 @@
-== README
+# Technology Used.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1. language: Ruby
+2. platform: Rails
+3. front end script: jQuery, Coffeescript, Twitter bootstrap, CSS3
+4. main gem: braintree, mailgun-ruby, aescrypt, paperclip.
+5. main feature: 
+>1. Mobile back end api.
+>2. Payment integration using Stripe.
+>3. Sendgrid API integration for mailing.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+6. hosting: Heroku deploying.
